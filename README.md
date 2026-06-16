@@ -372,11 +372,3 @@ In fraud detection, accuracy is a **misleading metric** due to extreme class imb
 - **Dataset**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn
 
----
-
-## Author Details
-
-- **Author Name:** Chaitanya reddy manda
-- **Institution:** Aditya university
-- **Internship:** Avaintern Edutech
-- **Date:** 2026

@@ -4,7 +4,6 @@
 =============================================================================
 
 Project Title : Credit Card Fraud Detection Using Machine Learning
-Author        : [Your Name]
 Date          : June 2026
 Dataset       : creditcard.csv (Kaggle - Credit Card Fraud Detection)
                 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
