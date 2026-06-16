@@ -1,10 +1,5 @@
 # Credit Card Fraud Detection Using Machine Learning
 
-**Author Name:** Chaitanya reddy manda  
-**Institution:** Aditya university  
-**Internship:** Avaintern Edutech  
-**Date:** 2026
-
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2%2B-orange?style=flat&logo=scikit-learn)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
@@ -376,3 +371,12 @@ In fraud detection, accuracy is a **misleading metric** due to extreme class imb
 
 - **Dataset**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn
+
+---
+
+## Author Details
+
+- **Author Name:** Chaitanya reddy manda
+- **Institution:** Aditya university
+- **Internship:** Avaintern Edutech
+- **Date:** 2026
